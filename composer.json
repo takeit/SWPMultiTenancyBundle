@@ -22,7 +22,7 @@
         "symfony/framework-bundle": "~2.4|~3.0",
         "doctrine/doctrine-bundle": "~1.3",
         "stof/doctrine-extensions-bundle": "~1.1",
-        "swp/multi-tenancy": "~0.1.0"
+        "swp/multi-tenancy": "dev-travis"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.6",
