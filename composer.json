@@ -15,7 +15,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/takeit/multi-tenancy"
-        },
+        }
     ],
     "require": {
         "php": ">=5.4|^7.0",
